@@ -1,0 +1,3 @@
+module "team" {
+  source = "./team"
+}
